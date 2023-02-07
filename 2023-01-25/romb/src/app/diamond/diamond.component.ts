@@ -1,3 +1,12 @@
+/*
+* File:
+* Author: Farkas Csaba
+* Copyright: 2023, Farkas CSaba
+* Group: Szoft I/N
+* Date: 2023-02-07
+* Github: https://github.com/fcsabi/
+* Licenc: GNU GPL
+*/
 import { Component } from '@angular/core';
 import { FormControl } from '@angular/forms';
 
